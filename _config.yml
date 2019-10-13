@@ -1,5 +1,5 @@
 # theme: jekyll-theme-hacker
 deploy:
   type: git
-  repository: https://github.com/wetware-liyun/wetware.github.io
-  branch: gh-pages
+  repository: https://github.com/wetware-liyun/wetware.github.io.git
+  branch: master
