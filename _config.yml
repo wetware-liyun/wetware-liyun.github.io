@@ -3,3 +3,5 @@ deploy:
   type: git
   repository: https://github.com/wetware-liyun/wetware-liyun.github.io
   branch: master
+
+theme: jekyll-theme-slate
